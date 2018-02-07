@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url("//source.qunarzz.com/fonts/glyphicons/3.3/glyphicons-halflings-regular.eot");
+  /* IE9*/
+  src: url("//source.qunarzz.com/fonts/glyphicons/3.3/glyphicons-halflings-regular.woff") format("woff"), url("//source.qunarzz.com/fonts/glyphicons/3.3/glyphicons-halflings-regular.ttf") format("truetype"), url("//source.qunarzz.com/fonts/glyphicons/3.3/glyphicons-halflings-regular.svg#iconfont") format("svg");
+  /* iOS 4.1- */ }
